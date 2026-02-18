@@ -14,12 +14,19 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on **Ship that fires bullets**
-- 🌱 Learning **Django, MongoDB, AI & ML**
-- 💡 Interested in **Web Development + Artificial Intelligence**
-- 📫 Reach me at: **bornon1709@gmail.com**
+🎓 I'm a **3rd Year Computer Science student at RCCIIT**, passionate about transforming ideas into real-world applications.  
+
+🚀 Currently diving deep into **Advanced Python** and **PyTorch**, exploring the world of AI, machine learning, and intelligent systems.  
+
+🛠️ I believe in **learning by building** — constantly working on projects that challenge me, sharpen my skills, and push me beyond my comfort zone.  
+
+🎯 My ultimate goal is to become a skilled **Software Engineer**, capable of designing scalable systems and solving meaningful real-world problems.  
+
+🔥 Every project I build is a step closer to mastering new technologies and discovering my true potential.  
+
+📫 Reach me at: **bornon1709@gmail.com**
 
 ---
 
